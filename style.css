@@ -22,8 +22,9 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.styledfont {
+.styledFont {
     text-align: center;
+    color: pink
 }
 
 .big {
@@ -31,14 +32,14 @@
 }
 
 .small {
-    font-size: 6px;
+    font-size: 8px;
 }
 
 .orange {
     color: orange;
 }
 
-#styledimage {
+#styledImage {
     border-style: double;
     border-width: 12px;
     border-color: darkslateblue;
