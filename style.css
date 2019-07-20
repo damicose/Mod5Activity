@@ -1,15 +1,15 @@
-head1 {
+#head1 {
     text-align: center;
 }
 
-pred {
+#pred {
     color: red;
 }
 
-pblue {
+#pblue {
     color: blue;
 }
 
-pgreen {
+#pgreen {
     color: green;
 }
